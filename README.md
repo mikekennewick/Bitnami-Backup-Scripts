@@ -1,0 +1,1 @@
+# Bitnami Backup Script
